@@ -1,0 +1,1 @@
+strnume1 = string(global.num1_suma);
